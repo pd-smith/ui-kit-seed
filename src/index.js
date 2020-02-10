@@ -1,2 +1,3 @@
-export { default as colors } from './styles/colors';
+export { colors } from './styles/common/colors';
+export { default as getButtonStyles } from './styles/button';
 export { default as Button } from './button/Button';
